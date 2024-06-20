@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Murugesh</h1>
-<h3 align="center">Crafting the Web, Unlocking Data Insights</h3>
+<h3 align="center">Building the Web, Analyzing the Data</h3>
 
 - 🔭 I’m currently working on **TurfMaster**
 
