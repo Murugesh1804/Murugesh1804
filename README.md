@@ -2,9 +2,9 @@
 
 # Hi there, I'm Murugesh S 👋
 
-### A passionate Web Developer from India 🇮🇳
+### A passionate Developer from India 🇮🇳
 
-*Currently working at **Techobite** as a Backend Developer*
+*Currently working at **Deloitte** as a Data Engineering Intern*
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C96442&center=true&vCenter=true&width=500&lines=Backend+Developer+%F0%9F%92%BB;C%2B%2B+%7C+Python+%7C+JavaScript+Dev;Always+learning+new+things+%F0%9F%8C%B1;Building+cool+stuff+one+commit+at+a+time)](https://git.io/typing-svg)
 
@@ -15,7 +15,7 @@
 ## 🚀 About Me
 
 - 🌱 I'm currently learning **Next.js**
-- 👨‍💻 All of my projects are available at [murugesh.vercel.app](https://murugesh.vercel.app)
+- 👨‍💻 All of my projects are available at [murugesh.dev](https://murugesh.dev)
 - 💬 Ask me about **C++, Python, JavaScript**
 - 📫 How to reach me: **dhanamurugesh1804@gmail.com**
 - 📄 Know about my experiences: [View Resume](https://drive.google.com/file/d/1ymabeKbf-XunmoYJznlwBqiT_AvAZToa/view?usp=drive_link)
