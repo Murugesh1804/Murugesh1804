@@ -1,24 +1,66 @@
 <h1 align="center">Hi 👋, I'm Murugesh S</h1>
-<h3 align="center">A passionate Web developer from India, Currently working at Techobite as a Backend-Devloper</h3>
-
-- 🌱 I’m currently learning **Next.js**
-
-- 👨‍💻 All of my projects are available at [https://murugesh.vercel.app](https://murugesh.vercel.app)
-
-- 💬 Ask me about **C++,Python,Javascript**
-
-- 📫 How to reach me **dhanamurugesh1804@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ymabeKbf-XunmoYJznlwBqiT_AvAZToa/view?usp=drive_link](https://drive.google.com/file/d/1ymabeKbf-XunmoYJznlwBqiT_AvAZToa/view?usp=drive_link)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://linkedin.com/in/murugesh-s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/murugesh-s" height="30" width="40" /></a>
-<a href="https://instagram.com/_.murugesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.murugesh" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/murugesh04/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/murugesh04/" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Backend+Developer;AI+Enthusiast;Full+Stack+Engineer;Data+Engineering+Intern" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=murugesh1804&show_icons=true&locale=en&layout=compact" alt="murugesh1804" /></p>
+### 💫 About Me
+
+I am a passionate software developer from India, currently focused on building scalable backend systems and exploring the intersection of AI and Data Engineering. 
+
+- 🚀 Currently working as a **Backend Developer** at **Techobite**.
+- 🎓 Pursuing a **B.Tech in Information Technology**.
+- 💼 Upcoming **Data Engineering Intern** at **Deloitte** (Jan - June).
+- 🌱 Mastering **Next.js** and **Advanced AI Integration**.
+- 🛠️ Building an **AI-Driven Safety Intelligence System** for construction environments.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,nodejs,express,mongodb,react,nextjs,docker,nginx,git,figma,postman,py&theme=dark" />
+</p>
+
+**Specialized in:**
+- **Languages:** C++, Python, JavaScript
+- **Backend:** Node.js, Express, REST APIs
+- **Database:** MongoDB, SQL
+- **DevOps/Tools:** Docker, Nginx, Git, Postman
+
+---
+
+### 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=murugesh1804&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murugesh1804&layout=compact&theme=transparent" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=murugesh1804&theme=transparent" alt="streak stats" />
+</p>
+
+---
+
+### 🔗 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/murugesh-s" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://murugesh.vercel.app" target="blank"><img src="https://img.shields.io/badge/Portfolio-2196F3?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://leetcode.com/u/murugesh04/" target="blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" /></a>
+<a href="mailto:dhanamurugesh1804@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+<a href="https://instagram.com/_.murugesh" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+</p>
+
+---
+
+### 📄 Professional Links
+- [🌐 Personal Portfolio](https://murugesh.vercel.app)
+- [📝 View My Resume](https://drive.google.com/file/d/1ymabeKbf-XunmoYJznlwBqiT_AvAZToa/view?usp=drive_link)
+- [💡 Project Showcase](https://murugesh.vercel.app/projects)
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote" />
+</p>
